@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/opensso~svn/!svn/ver/7976/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity
+END
+OpenSSOAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOAuthenticationProvider.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensso~svn/!svn/ver/6038/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/package-info.java
+END
+OpenSSOProcessingFilterEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/opensso~svn/!svn/ver/7976/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOProcessingFilterEntryPoint.java
+END
+OpenSSOVoter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOVoter.java
+END
+OpenSSOAuthenticationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOAuthenticationToken.java
+END
+OpenSSOObjectDefinitionSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/opensso~svn/!svn/ver/6072/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOObjectDefinitionSource.java
+END
+OpenSSOSimpleAuthoritiesPopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOSimpleAuthoritiesPopulator.java
+END
+OpenSSOProcessingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOProcessingFilter.java
+END
+OpenSSOUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOUserDetails.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/HttpUtil.java
+END
+OpenSSOLogoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/opensso~svn/!svn/ver/6033/trunk/extensions/spring2provider/provider/src/main/java/com/sun/identity/provider/springsecurity/OpenSSOLogoutHandler.java
+END
