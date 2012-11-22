@@ -1,0 +1,2 @@
+We've been using OpenAM (10) with Spring Security, and needed to upgrade to version 3.1(.3) which configures FilterChainProxy with a list of SecurityFilterChains. I had the source code from some of the ForgeRock (http://forgerock.org/) repos, and basically just upgraded the parts that have changed since 3.0. With the exception of the changed FilterChainProxy model, you can conf this just like the original version (I'll add the missing reference to that later...).
+
